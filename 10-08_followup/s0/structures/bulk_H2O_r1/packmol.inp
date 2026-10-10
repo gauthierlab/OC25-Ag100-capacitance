@@ -1,0 +1,10 @@
+tolerance 2.0
+filetype pdb
+output packed.pdb
+seed 242742857
+
+# bulk waters
+structure ../templates/water.pdb
+  number 216
+  inside box 0.000 0.000 0.000 18.644 18.644 18.644
+end structure

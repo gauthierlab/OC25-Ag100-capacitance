@@ -1,0 +1,12 @@
+SL_h60_n16_F_dN+2_surface_r1
+SL_h60_n16_F_dN+2_far_r2
+SL_h60_n16_Na_dN-2_surface_r1
+SL_h60_n16_Na_dN-2_far_r2
+SL_h60_n16_Cs_dN-2_surface_r1
+SL_h60_n16_Cs_dN-2_far_r2
+SL_h60_n16_F_dN+4_surface_r1
+SL_h60_n16_F_dN+4_far_r2
+SL_h60_n16_Na_dN-4_surface_r1
+SL_h60_n16_Na_dN-4_far_r2
+SL_h60_n16_Cs_dN-4_surface_r1
+SL_h60_n16_Cs_dN-4_far_r2

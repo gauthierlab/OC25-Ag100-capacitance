@@ -1,0 +1,116 @@
+[
+  {
+    "state_id": "LR1_H2O_r1",
+    "slab_layers": null,
+    "n_lateral": null,
+    "electrolyte": "H2O",
+    "delta_N": 0,
+    "n_cation": 0,
+    "n_anion": 0,
+    "n_water": 7219,
+    "n_Ag": 0,
+    "n_atoms": 21657,
+    "ion_start": null,
+    "replica": 1,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 3600.0,
+    "sigma_nominal_uC_cm2": 0.0,
+    "cell": [
+      [
+        60.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        60.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        60.0
+      ]
+    ],
+    "z_slab_top_A": 0.0,
+    "z_film_top_A": 60.0,
+    "purpose": "LR1 bulk perfect-screening sum rule / longitudinal dielectric",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "LR1_NaF_1M_r1",
+    "slab_layers": null,
+    "n_lateral": null,
+    "electrolyte": "NaF_bulk",
+    "delta_N": 0,
+    "n_cation": 130,
+    "n_anion": 130,
+    "n_water": 7089,
+    "n_Ag": 0,
+    "n_atoms": 21527,
+    "ion_start": null,
+    "replica": 1,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 3600.0,
+    "sigma_nominal_uC_cm2": 0.0,
+    "cell": [
+      [
+        60.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        60.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        60.0
+      ]
+    ],
+    "z_slab_top_A": 0.0,
+    "z_film_top_A": 60.0,
+    "purpose": "LR1 bulk perfect-screening sum rule / longitudinal dielectric",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "LR1_CsF_1M_r1",
+    "slab_layers": null,
+    "n_lateral": null,
+    "electrolyte": "CsF_bulk",
+    "delta_N": 0,
+    "n_cation": 130,
+    "n_anion": 130,
+    "n_water": 7089,
+    "n_Ag": 0,
+    "n_atoms": 21527,
+    "ion_start": null,
+    "replica": 1,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 3600.0,
+    "sigma_nominal_uC_cm2": 0.0,
+    "cell": [
+      [
+        60.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        60.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        60.0
+      ]
+    ],
+    "z_slab_top_A": 0.0,
+    "z_film_top_A": 60.0,
+    "purpose": "LR1 bulk perfect-screening sum rule / longitudinal dielectric",
+    "packer": "python_fallback"
+  }
+]

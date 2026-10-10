@@ -1,0 +1,22 @@
+tolerance 2.0
+filetype pdb
+output packed.pdb
+seed 1650086864
+
+# Cs cations
+structure ../templates/cs.pdb
+  number 130
+  inside box 0.000 0.000 0.000 60.000 60.000 60.000
+end structure
+
+# F anions
+structure ../templates/f.pdb
+  number 130
+  inside box 0.000 0.000 0.000 60.000 60.000 60.000
+end structure
+
+# bulk waters
+structure ../templates/water.pdb
+  number 7089
+  inside box 0.000 0.000 0.000 60.000 60.000 60.000
+end structure

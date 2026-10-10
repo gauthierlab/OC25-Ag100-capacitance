@@ -1,0 +1,1104 @@
+[
+  {
+    "state_id": "L4_n8_NaF_dN-2_surface_r1",
+    "slab_layers": 4,
+    "n_lateral": 8,
+    "electrolyte": "NaF",
+    "delta_N": -2,
+    "n_cation": 14,
+    "n_anion": 12,
+    "n_water": 636,
+    "n_Ag": 256,
+    "n_atoms": 2190,
+    "ion_start": "surface",
+    "replica": 1,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 554.2297448292634,
+    "sigma_nominal_uC_cm2": -5.781633515514646,
+    "cell": [
+      [
+        23.542084547237174,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        23.542084547237174,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        58.742537859981915
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 43.742537859981915,
+    "purpose": "quick-look C at PZC / two-sided start",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "L4_n8_NaF_dN-2_surface_r2",
+    "slab_layers": 4,
+    "n_lateral": 8,
+    "electrolyte": "NaF",
+    "delta_N": -2,
+    "n_cation": 14,
+    "n_anion": 12,
+    "n_water": 636,
+    "n_Ag": 256,
+    "n_atoms": 2190,
+    "ion_start": "surface",
+    "replica": 2,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 554.2297448292634,
+    "sigma_nominal_uC_cm2": -5.781633515514646,
+    "cell": [
+      [
+        23.542084547237174,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        23.542084547237174,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        58.742537859981915
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 43.742537859981915,
+    "purpose": "quick-look C at PZC / two-sided start",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "L4_n8_NaF_dN-2_far_r3",
+    "slab_layers": 4,
+    "n_lateral": 8,
+    "electrolyte": "NaF",
+    "delta_N": -2,
+    "n_cation": 14,
+    "n_anion": 12,
+    "n_water": 636,
+    "n_Ag": 256,
+    "n_atoms": 2190,
+    "ion_start": "far",
+    "replica": 3,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 554.2297448292634,
+    "sigma_nominal_uC_cm2": -5.781633515514646,
+    "cell": [
+      [
+        23.542084547237174,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        23.542084547237174,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        58.742537859981915
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 43.742537859981915,
+    "purpose": "quick-look C at PZC / two-sided start",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "L4_n8_NaF_dN-2_far_r4",
+    "slab_layers": 4,
+    "n_lateral": 8,
+    "electrolyte": "NaF",
+    "delta_N": -2,
+    "n_cation": 14,
+    "n_anion": 12,
+    "n_water": 636,
+    "n_Ag": 256,
+    "n_atoms": 2190,
+    "ion_start": "far",
+    "replica": 4,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 554.2297448292634,
+    "sigma_nominal_uC_cm2": -5.781633515514646,
+    "cell": [
+      [
+        23.542084547237174,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        23.542084547237174,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        58.742537859981915
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 43.742537859981915,
+    "purpose": "quick-look C at PZC / two-sided start",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "L4_n8_NaF_dN-1_surface_r1",
+    "slab_layers": 4,
+    "n_lateral": 8,
+    "electrolyte": "NaF",
+    "delta_N": -1,
+    "n_cation": 13,
+    "n_anion": 12,
+    "n_water": 636,
+    "n_Ag": 256,
+    "n_atoms": 2189,
+    "ion_start": "surface",
+    "replica": 1,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 554.2297448292634,
+    "sigma_nominal_uC_cm2": -2.890816757757323,
+    "cell": [
+      [
+        23.542084547237174,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        23.542084547237174,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        58.742537859981915
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 43.742537859981915,
+    "purpose": "quick-look C at PZC / two-sided start",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "L4_n8_NaF_dN-1_surface_r2",
+    "slab_layers": 4,
+    "n_lateral": 8,
+    "electrolyte": "NaF",
+    "delta_N": -1,
+    "n_cation": 13,
+    "n_anion": 12,
+    "n_water": 636,
+    "n_Ag": 256,
+    "n_atoms": 2189,
+    "ion_start": "surface",
+    "replica": 2,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 554.2297448292634,
+    "sigma_nominal_uC_cm2": -2.890816757757323,
+    "cell": [
+      [
+        23.542084547237174,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        23.542084547237174,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        58.742537859981915
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 43.742537859981915,
+    "purpose": "quick-look C at PZC / two-sided start",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "L4_n8_NaF_dN-1_far_r3",
+    "slab_layers": 4,
+    "n_lateral": 8,
+    "electrolyte": "NaF",
+    "delta_N": -1,
+    "n_cation": 13,
+    "n_anion": 12,
+    "n_water": 636,
+    "n_Ag": 256,
+    "n_atoms": 2189,
+    "ion_start": "far",
+    "replica": 3,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 554.2297448292634,
+    "sigma_nominal_uC_cm2": -2.890816757757323,
+    "cell": [
+      [
+        23.542084547237174,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        23.542084547237174,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        58.742537859981915
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 43.742537859981915,
+    "purpose": "quick-look C at PZC / two-sided start",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "L4_n8_NaF_dN-1_far_r4",
+    "slab_layers": 4,
+    "n_lateral": 8,
+    "electrolyte": "NaF",
+    "delta_N": -1,
+    "n_cation": 13,
+    "n_anion": 12,
+    "n_water": 636,
+    "n_Ag": 256,
+    "n_atoms": 2189,
+    "ion_start": "far",
+    "replica": 4,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 554.2297448292634,
+    "sigma_nominal_uC_cm2": -2.890816757757323,
+    "cell": [
+      [
+        23.542084547237174,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        23.542084547237174,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        58.742537859981915
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 43.742537859981915,
+    "purpose": "quick-look C at PZC / two-sided start",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "L4_n8_NaF_dN0_random_r1",
+    "slab_layers": 4,
+    "n_lateral": 8,
+    "electrolyte": "NaF",
+    "delta_N": 0,
+    "n_cation": 12,
+    "n_anion": 12,
+    "n_water": 636,
+    "n_Ag": 256,
+    "n_atoms": 2188,
+    "ion_start": "random",
+    "replica": 1,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 554.2297448292634,
+    "sigma_nominal_uC_cm2": 0.0,
+    "cell": [
+      [
+        23.542084547237174,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        23.542084547237174,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        58.742537859981915
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 43.742537859981915,
+    "purpose": "quick-look C at PZC / two-sided start",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "L4_n8_NaF_dN0_random_r2",
+    "slab_layers": 4,
+    "n_lateral": 8,
+    "electrolyte": "NaF",
+    "delta_N": 0,
+    "n_cation": 12,
+    "n_anion": 12,
+    "n_water": 636,
+    "n_Ag": 256,
+    "n_atoms": 2188,
+    "ion_start": "random",
+    "replica": 2,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 554.2297448292634,
+    "sigma_nominal_uC_cm2": 0.0,
+    "cell": [
+      [
+        23.542084547237174,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        23.542084547237174,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        58.742537859981915
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 43.742537859981915,
+    "purpose": "quick-look C at PZC / two-sided start",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "L4_n8_NaF_dN0_random_r3",
+    "slab_layers": 4,
+    "n_lateral": 8,
+    "electrolyte": "NaF",
+    "delta_N": 0,
+    "n_cation": 12,
+    "n_anion": 12,
+    "n_water": 636,
+    "n_Ag": 256,
+    "n_atoms": 2188,
+    "ion_start": "random",
+    "replica": 3,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 554.2297448292634,
+    "sigma_nominal_uC_cm2": 0.0,
+    "cell": [
+      [
+        23.542084547237174,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        23.542084547237174,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        58.742537859981915
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 43.742537859981915,
+    "purpose": "quick-look C at PZC / two-sided start",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "L4_n8_NaF_dN0_random_r4",
+    "slab_layers": 4,
+    "n_lateral": 8,
+    "electrolyte": "NaF",
+    "delta_N": 0,
+    "n_cation": 12,
+    "n_anion": 12,
+    "n_water": 636,
+    "n_Ag": 256,
+    "n_atoms": 2188,
+    "ion_start": "random",
+    "replica": 4,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 554.2297448292634,
+    "sigma_nominal_uC_cm2": 0.0,
+    "cell": [
+      [
+        23.542084547237174,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        23.542084547237174,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        58.742537859981915
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 43.742537859981915,
+    "purpose": "quick-look C at PZC / two-sided start",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "L4_n8_NaF_dN+1_surface_r1",
+    "slab_layers": 4,
+    "n_lateral": 8,
+    "electrolyte": "NaF",
+    "delta_N": 1,
+    "n_cation": 12,
+    "n_anion": 13,
+    "n_water": 636,
+    "n_Ag": 256,
+    "n_atoms": 2189,
+    "ion_start": "surface",
+    "replica": 1,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 554.2297448292634,
+    "sigma_nominal_uC_cm2": 2.890816757757323,
+    "cell": [
+      [
+        23.542084547237174,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        23.542084547237174,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        58.742537859981915
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 43.742537859981915,
+    "purpose": "quick-look C at PZC / two-sided start",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "L4_n8_NaF_dN+1_surface_r2",
+    "slab_layers": 4,
+    "n_lateral": 8,
+    "electrolyte": "NaF",
+    "delta_N": 1,
+    "n_cation": 12,
+    "n_anion": 13,
+    "n_water": 636,
+    "n_Ag": 256,
+    "n_atoms": 2189,
+    "ion_start": "surface",
+    "replica": 2,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 554.2297448292634,
+    "sigma_nominal_uC_cm2": 2.890816757757323,
+    "cell": [
+      [
+        23.542084547237174,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        23.542084547237174,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        58.742537859981915
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 43.742537859981915,
+    "purpose": "quick-look C at PZC / two-sided start",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "L4_n8_NaF_dN+1_far_r3",
+    "slab_layers": 4,
+    "n_lateral": 8,
+    "electrolyte": "NaF",
+    "delta_N": 1,
+    "n_cation": 12,
+    "n_anion": 13,
+    "n_water": 636,
+    "n_Ag": 256,
+    "n_atoms": 2189,
+    "ion_start": "far",
+    "replica": 3,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 554.2297448292634,
+    "sigma_nominal_uC_cm2": 2.890816757757323,
+    "cell": [
+      [
+        23.542084547237174,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        23.542084547237174,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        58.742537859981915
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 43.742537859981915,
+    "purpose": "quick-look C at PZC / two-sided start",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "L4_n8_NaF_dN+1_far_r4",
+    "slab_layers": 4,
+    "n_lateral": 8,
+    "electrolyte": "NaF",
+    "delta_N": 1,
+    "n_cation": 12,
+    "n_anion": 13,
+    "n_water": 636,
+    "n_Ag": 256,
+    "n_atoms": 2189,
+    "ion_start": "far",
+    "replica": 4,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 554.2297448292634,
+    "sigma_nominal_uC_cm2": 2.890816757757323,
+    "cell": [
+      [
+        23.542084547237174,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        23.542084547237174,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        58.742537859981915
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 43.742537859981915,
+    "purpose": "quick-look C at PZC / two-sided start",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "L4_n8_NaF_dN+2_surface_r1",
+    "slab_layers": 4,
+    "n_lateral": 8,
+    "electrolyte": "NaF",
+    "delta_N": 2,
+    "n_cation": 12,
+    "n_anion": 14,
+    "n_water": 636,
+    "n_Ag": 256,
+    "n_atoms": 2190,
+    "ion_start": "surface",
+    "replica": 1,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 554.2297448292634,
+    "sigma_nominal_uC_cm2": 5.781633515514646,
+    "cell": [
+      [
+        23.542084547237174,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        23.542084547237174,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        58.742537859981915
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 43.742537859981915,
+    "purpose": "quick-look C at PZC / two-sided start",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "L4_n8_NaF_dN+2_surface_r2",
+    "slab_layers": 4,
+    "n_lateral": 8,
+    "electrolyte": "NaF",
+    "delta_N": 2,
+    "n_cation": 12,
+    "n_anion": 14,
+    "n_water": 636,
+    "n_Ag": 256,
+    "n_atoms": 2190,
+    "ion_start": "surface",
+    "replica": 2,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 554.2297448292634,
+    "sigma_nominal_uC_cm2": 5.781633515514646,
+    "cell": [
+      [
+        23.542084547237174,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        23.542084547237174,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        58.742537859981915
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 43.742537859981915,
+    "purpose": "quick-look C at PZC / two-sided start",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "L4_n8_NaF_dN+2_far_r3",
+    "slab_layers": 4,
+    "n_lateral": 8,
+    "electrolyte": "NaF",
+    "delta_N": 2,
+    "n_cation": 12,
+    "n_anion": 14,
+    "n_water": 636,
+    "n_Ag": 256,
+    "n_atoms": 2190,
+    "ion_start": "far",
+    "replica": 3,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 554.2297448292634,
+    "sigma_nominal_uC_cm2": 5.781633515514646,
+    "cell": [
+      [
+        23.542084547237174,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        23.542084547237174,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        58.742537859981915
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 43.742537859981915,
+    "purpose": "quick-look C at PZC / two-sided start",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "L4_n8_NaF_dN+2_far_r4",
+    "slab_layers": 4,
+    "n_lateral": 8,
+    "electrolyte": "NaF",
+    "delta_N": 2,
+    "n_cation": 12,
+    "n_anion": 14,
+    "n_water": 636,
+    "n_Ag": 256,
+    "n_atoms": 2190,
+    "ion_start": "far",
+    "replica": 4,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 554.2297448292634,
+    "sigma_nominal_uC_cm2": 5.781633515514646,
+    "cell": [
+      [
+        23.542084547237174,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        23.542084547237174,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        58.742537859981915
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 43.742537859981915,
+    "purpose": "quick-look C at PZC / two-sided start",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "L4_n8_CsF_dN-2_surface_r1",
+    "slab_layers": 4,
+    "n_lateral": 8,
+    "electrolyte": "CsF",
+    "delta_N": -2,
+    "n_cation": 14,
+    "n_anion": 12,
+    "n_water": 636,
+    "n_Ag": 256,
+    "n_atoms": 2190,
+    "ion_start": "surface",
+    "replica": 1,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 554.2297448292634,
+    "sigma_nominal_uC_cm2": -5.781633515514646,
+    "cell": [
+      [
+        23.542084547237174,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        23.542084547237174,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        58.742537859981915
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 43.742537859981915,
+    "purpose": "in-distribution cation comparison: Cs+ is in the OC25 training ion set, Na+ is not",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "L4_n8_CsF_dN-2_far_r2",
+    "slab_layers": 4,
+    "n_lateral": 8,
+    "electrolyte": "CsF",
+    "delta_N": -2,
+    "n_cation": 14,
+    "n_anion": 12,
+    "n_water": 636,
+    "n_Ag": 256,
+    "n_atoms": 2190,
+    "ion_start": "far",
+    "replica": 2,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 554.2297448292634,
+    "sigma_nominal_uC_cm2": -5.781633515514646,
+    "cell": [
+      [
+        23.542084547237174,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        23.542084547237174,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        58.742537859981915
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 43.742537859981915,
+    "purpose": "in-distribution cation comparison: Cs+ is in the OC25 training ion set, Na+ is not",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "L4_n8_CsF_dN0_random_r1",
+    "slab_layers": 4,
+    "n_lateral": 8,
+    "electrolyte": "CsF",
+    "delta_N": 0,
+    "n_cation": 12,
+    "n_anion": 12,
+    "n_water": 636,
+    "n_Ag": 256,
+    "n_atoms": 2188,
+    "ion_start": "random",
+    "replica": 1,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 554.2297448292634,
+    "sigma_nominal_uC_cm2": 0.0,
+    "cell": [
+      [
+        23.542084547237174,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        23.542084547237174,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        58.742537859981915
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 43.742537859981915,
+    "purpose": "in-distribution cation comparison: Cs+ is in the OC25 training ion set, Na+ is not",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "L4_n8_CsF_dN0_random_r2",
+    "slab_layers": 4,
+    "n_lateral": 8,
+    "electrolyte": "CsF",
+    "delta_N": 0,
+    "n_cation": 12,
+    "n_anion": 12,
+    "n_water": 636,
+    "n_Ag": 256,
+    "n_atoms": 2188,
+    "ion_start": "random",
+    "replica": 2,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 554.2297448292634,
+    "sigma_nominal_uC_cm2": 0.0,
+    "cell": [
+      [
+        23.542084547237174,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        23.542084547237174,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        58.742537859981915
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 43.742537859981915,
+    "purpose": "in-distribution cation comparison: Cs+ is in the OC25 training ion set, Na+ is not",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "L4_n8_CsF_dN+2_surface_r1",
+    "slab_layers": 4,
+    "n_lateral": 8,
+    "electrolyte": "CsF",
+    "delta_N": 2,
+    "n_cation": 12,
+    "n_anion": 14,
+    "n_water": 636,
+    "n_Ag": 256,
+    "n_atoms": 2190,
+    "ion_start": "surface",
+    "replica": 1,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 554.2297448292634,
+    "sigma_nominal_uC_cm2": 5.781633515514646,
+    "cell": [
+      [
+        23.542084547237174,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        23.542084547237174,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        58.742537859981915
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 43.742537859981915,
+    "purpose": "in-distribution cation comparison: Cs+ is in the OC25 training ion set, Na+ is not",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "L4_n8_CsF_dN+2_far_r2",
+    "slab_layers": 4,
+    "n_lateral": 8,
+    "electrolyte": "CsF",
+    "delta_N": 2,
+    "n_cation": 12,
+    "n_anion": 14,
+    "n_water": 636,
+    "n_Ag": 256,
+    "n_atoms": 2190,
+    "ion_start": "far",
+    "replica": 2,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 554.2297448292634,
+    "sigma_nominal_uC_cm2": 5.781633515514646,
+    "cell": [
+      [
+        23.542084547237174,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        23.542084547237174,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        58.742537859981915
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 43.742537859981915,
+    "purpose": "in-distribution cation comparison: Cs+ is in the OC25 training ion set, Na+ is not",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "bulk_H2O_r1",
+    "slab_layers": null,
+    "n_lateral": null,
+    "electrolyte": "H2O",
+    "delta_N": 0,
+    "n_cation": 0,
+    "n_anion": 0,
+    "n_water": 216,
+    "n_Ag": 0,
+    "n_atoms": 648,
+    "ion_start": null,
+    "replica": 1,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 347.61550381873025,
+    "sigma_nominal_uC_cm2": 0.0,
+    "cell": [
+      [
+        18.64444967862367,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        18.64444967862367,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        18.64444967862367
+      ]
+    ],
+    "z_slab_top_A": 0.0,
+    "z_film_top_A": 18.64444967862367,
+    "purpose": "MLIP bulk-water sanity (density/RDF/diffusion)",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "bulk_H2O_r2",
+    "slab_layers": null,
+    "n_lateral": null,
+    "electrolyte": "H2O",
+    "delta_N": 0,
+    "n_cation": 0,
+    "n_anion": 0,
+    "n_water": 216,
+    "n_Ag": 0,
+    "n_atoms": 648,
+    "ion_start": null,
+    "replica": 2,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 347.61550381873025,
+    "sigma_nominal_uC_cm2": 0.0,
+    "cell": [
+      [
+        18.64444967862367,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        18.64444967862367,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        18.64444967862367
+      ]
+    ],
+    "z_slab_top_A": 0.0,
+    "z_film_top_A": 18.64444967862367,
+    "purpose": "MLIP bulk-water sanity (density/RDF/diffusion)",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "bulk_NaF_r1",
+    "slab_layers": null,
+    "n_lateral": null,
+    "electrolyte": "NaF_bulk",
+    "delta_N": 0,
+    "n_cation": 4,
+    "n_anion": 4,
+    "n_water": 216,
+    "n_Ag": 0,
+    "n_atoms": 656,
+    "ion_start": null,
+    "replica": 1,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 347.61550381873025,
+    "sigma_nominal_uC_cm2": 0.0,
+    "cell": [
+      [
+        18.64444967862367,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        18.64444967862367,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        18.64444967862367
+      ]
+    ],
+    "z_slab_top_A": 0.0,
+    "z_film_top_A": 18.64444967862367,
+    "purpose": "ion pairing / hydration sanity",
+    "packer": "python_fallback"
+  }
+]

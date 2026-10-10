@@ -1,0 +1,28 @@
+tolerance 2.0
+filetype pdb
+output packed.pdb
+seed 89753044
+
+# excess cation (surface start)
+structure ../templates/na.pdb
+  number 2
+  inside box 0.000 0.000 8.743 47.084 47.084 11.743
+end structure
+
+# neutral cation pairs (random)
+structure ../templates/na.pdb
+  number 0
+  inside box 0.000 0.000 8.743 47.084 47.084 68.743
+end structure
+
+# neutral anion pairs (random)
+structure ../templates/f.pdb
+  number 0
+  inside box 0.000 0.000 8.743 47.084 47.084 68.743
+end structure
+
+# bulk waters (random)
+structure ../templates/water.pdb
+  number 4445
+  inside box 0.000 0.000 8.743 47.084 47.084 68.743
+end structure

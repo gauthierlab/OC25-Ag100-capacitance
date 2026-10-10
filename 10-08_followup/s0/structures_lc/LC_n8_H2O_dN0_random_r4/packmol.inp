@@ -1,0 +1,22 @@
+tolerance 2.0
+filetype pdb
+output packed.pdb
+seed 2064501485
+
+# neutral cation pairs (random)
+structure ../templates/cs.pdb
+  number 0
+  inside box 0.000 0.000 8.743 23.542 23.542 43.743
+end structure
+
+# neutral anion pairs (random)
+structure ../templates/f.pdb
+  number 0
+  inside box 0.000 0.000 8.743 23.542 23.542 43.743
+end structure
+
+# bulk waters (random)
+structure ../templates/water.pdb
+  number 648
+  inside box 0.000 0.000 8.743 23.542 23.542 43.743
+end structure

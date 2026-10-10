@@ -1,0 +1,762 @@
+[
+  {
+    "state_id": "LC_n8_H2O_dN0_random_r1",
+    "slab_layers": 4,
+    "n_lateral": 8,
+    "electrolyte": "H2O",
+    "delta_N": 0,
+    "n_cation": 0,
+    "n_anion": 0,
+    "n_water": 648,
+    "n_Ag": 256,
+    "n_atoms": 2200,
+    "ion_start": "random",
+    "replica": 1,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 554.2297448292634,
+    "sigma_nominal_uC_cm2": 0.0,
+    "cell": [
+      [
+        23.542084547237174,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        23.542084547237174,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        63.742537859981915
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 43.742537859981915,
+    "purpose": "PZC and fluctuation ceiling of Ag(100)/pure water",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "LC_n8_H2O_dN0_random_r2",
+    "slab_layers": 4,
+    "n_lateral": 8,
+    "electrolyte": "H2O",
+    "delta_N": 0,
+    "n_cation": 0,
+    "n_anion": 0,
+    "n_water": 648,
+    "n_Ag": 256,
+    "n_atoms": 2200,
+    "ion_start": "random",
+    "replica": 2,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 554.2297448292634,
+    "sigma_nominal_uC_cm2": 0.0,
+    "cell": [
+      [
+        23.542084547237174,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        23.542084547237174,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        63.742537859981915
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 43.742537859981915,
+    "purpose": "PZC and fluctuation ceiling of Ag(100)/pure water",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "LC_n8_H2O_dN0_random_r3",
+    "slab_layers": 4,
+    "n_lateral": 8,
+    "electrolyte": "H2O",
+    "delta_N": 0,
+    "n_cation": 0,
+    "n_anion": 0,
+    "n_water": 648,
+    "n_Ag": 256,
+    "n_atoms": 2200,
+    "ion_start": "random",
+    "replica": 3,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 554.2297448292634,
+    "sigma_nominal_uC_cm2": 0.0,
+    "cell": [
+      [
+        23.542084547237174,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        23.542084547237174,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        63.742537859981915
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 43.742537859981915,
+    "purpose": "PZC and fluctuation ceiling of Ag(100)/pure water",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "LC_n8_H2O_dN0_random_r4",
+    "slab_layers": 4,
+    "n_lateral": 8,
+    "electrolyte": "H2O",
+    "delta_N": 0,
+    "n_cation": 0,
+    "n_anion": 0,
+    "n_water": 648,
+    "n_Ag": 256,
+    "n_atoms": 2200,
+    "ion_start": "random",
+    "replica": 4,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 554.2297448292634,
+    "sigma_nominal_uC_cm2": 0.0,
+    "cell": [
+      [
+        23.542084547237174,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        23.542084547237174,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        63.742537859981915
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 43.742537859981915,
+    "purpose": "PZC and fluctuation ceiling of Ag(100)/pure water",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "LC_n8_F_dN+1_surface_r1",
+    "slab_layers": 4,
+    "n_lateral": 8,
+    "electrolyte": "F_ci",
+    "delta_N": 1,
+    "n_cation": 0,
+    "n_anion": 1,
+    "n_water": 648,
+    "n_Ag": 256,
+    "n_atoms": 2201,
+    "ion_start": "surface",
+    "replica": 1,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 554.2297448292634,
+    "sigma_nominal_uC_cm2": 2.890816757757323,
+    "cell": [
+      [
+        23.542084547237174,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        23.542084547237174,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        63.742537859981915
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 43.742537859981915,
+    "purpose": "counter-ion-only anodic side (shared by NaF and CsF)",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "LC_n8_F_dN+1_far_r2",
+    "slab_layers": 4,
+    "n_lateral": 8,
+    "electrolyte": "F_ci",
+    "delta_N": 1,
+    "n_cation": 0,
+    "n_anion": 1,
+    "n_water": 648,
+    "n_Ag": 256,
+    "n_atoms": 2201,
+    "ion_start": "far",
+    "replica": 2,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 554.2297448292634,
+    "sigma_nominal_uC_cm2": 2.890816757757323,
+    "cell": [
+      [
+        23.542084547237174,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        23.542084547237174,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        63.742537859981915
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 43.742537859981915,
+    "purpose": "counter-ion-only anodic side (shared by NaF and CsF)",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "LC_n8_F_dN+1_surface_r3",
+    "slab_layers": 4,
+    "n_lateral": 8,
+    "electrolyte": "F_ci",
+    "delta_N": 1,
+    "n_cation": 0,
+    "n_anion": 1,
+    "n_water": 648,
+    "n_Ag": 256,
+    "n_atoms": 2201,
+    "ion_start": "surface",
+    "replica": 3,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 554.2297448292634,
+    "sigma_nominal_uC_cm2": 2.890816757757323,
+    "cell": [
+      [
+        23.542084547237174,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        23.542084547237174,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        63.742537859981915
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 43.742537859981915,
+    "purpose": "counter-ion-only anodic side (shared by NaF and CsF)",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "LC_n8_F_dN+1_far_r4",
+    "slab_layers": 4,
+    "n_lateral": 8,
+    "electrolyte": "F_ci",
+    "delta_N": 1,
+    "n_cation": 0,
+    "n_anion": 1,
+    "n_water": 648,
+    "n_Ag": 256,
+    "n_atoms": 2201,
+    "ion_start": "far",
+    "replica": 4,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 554.2297448292634,
+    "sigma_nominal_uC_cm2": 2.890816757757323,
+    "cell": [
+      [
+        23.542084547237174,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        23.542084547237174,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        63.742537859981915
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 43.742537859981915,
+    "purpose": "counter-ion-only anodic side (shared by NaF and CsF)",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "LC_n8_F_dN+2_surface_r1",
+    "slab_layers": 4,
+    "n_lateral": 8,
+    "electrolyte": "F_ci",
+    "delta_N": 2,
+    "n_cation": 0,
+    "n_anion": 2,
+    "n_water": 648,
+    "n_Ag": 256,
+    "n_atoms": 2202,
+    "ion_start": "surface",
+    "replica": 1,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 554.2297448292634,
+    "sigma_nominal_uC_cm2": 5.781633515514646,
+    "cell": [
+      [
+        23.542084547237174,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        23.542084547237174,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        63.742537859981915
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 43.742537859981915,
+    "purpose": "counter-ion-only anodic side (shared by NaF and CsF)",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "LC_n8_F_dN+2_far_r2",
+    "slab_layers": 4,
+    "n_lateral": 8,
+    "electrolyte": "F_ci",
+    "delta_N": 2,
+    "n_cation": 0,
+    "n_anion": 2,
+    "n_water": 648,
+    "n_Ag": 256,
+    "n_atoms": 2202,
+    "ion_start": "far",
+    "replica": 2,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 554.2297448292634,
+    "sigma_nominal_uC_cm2": 5.781633515514646,
+    "cell": [
+      [
+        23.542084547237174,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        23.542084547237174,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        63.742537859981915
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 43.742537859981915,
+    "purpose": "counter-ion-only anodic side (shared by NaF and CsF)",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "LC_n8_F_dN+2_surface_r3",
+    "slab_layers": 4,
+    "n_lateral": 8,
+    "electrolyte": "F_ci",
+    "delta_N": 2,
+    "n_cation": 0,
+    "n_anion": 2,
+    "n_water": 648,
+    "n_Ag": 256,
+    "n_atoms": 2202,
+    "ion_start": "surface",
+    "replica": 3,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 554.2297448292634,
+    "sigma_nominal_uC_cm2": 5.781633515514646,
+    "cell": [
+      [
+        23.542084547237174,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        23.542084547237174,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        63.742537859981915
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 43.742537859981915,
+    "purpose": "counter-ion-only anodic side (shared by NaF and CsF)",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "LC_n8_F_dN+2_far_r4",
+    "slab_layers": 4,
+    "n_lateral": 8,
+    "electrolyte": "F_ci",
+    "delta_N": 2,
+    "n_cation": 0,
+    "n_anion": 2,
+    "n_water": 648,
+    "n_Ag": 256,
+    "n_atoms": 2202,
+    "ion_start": "far",
+    "replica": 4,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 554.2297448292634,
+    "sigma_nominal_uC_cm2": 5.781633515514646,
+    "cell": [
+      [
+        23.542084547237174,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        23.542084547237174,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        63.742537859981915
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 43.742537859981915,
+    "purpose": "counter-ion-only anodic side (shared by NaF and CsF)",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "LC_n8_Na_dN-1_surface_r1",
+    "slab_layers": 4,
+    "n_lateral": 8,
+    "electrolyte": "Na_ci",
+    "delta_N": -1,
+    "n_cation": 1,
+    "n_anion": 0,
+    "n_water": 648,
+    "n_Ag": 256,
+    "n_atoms": 2201,
+    "ion_start": "surface",
+    "replica": 1,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 554.2297448292634,
+    "sigma_nominal_uC_cm2": -2.890816757757323,
+    "cell": [
+      [
+        23.542084547237174,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        23.542084547237174,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        63.742537859981915
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 43.742537859981915,
+    "purpose": "counter-ion-only cathodic side, cation comparison",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "LC_n8_Na_dN-1_far_r2",
+    "slab_layers": 4,
+    "n_lateral": 8,
+    "electrolyte": "Na_ci",
+    "delta_N": -1,
+    "n_cation": 1,
+    "n_anion": 0,
+    "n_water": 648,
+    "n_Ag": 256,
+    "n_atoms": 2201,
+    "ion_start": "far",
+    "replica": 2,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 554.2297448292634,
+    "sigma_nominal_uC_cm2": -2.890816757757323,
+    "cell": [
+      [
+        23.542084547237174,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        23.542084547237174,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        63.742537859981915
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 43.742537859981915,
+    "purpose": "counter-ion-only cathodic side, cation comparison",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "LC_n8_Na_dN-2_surface_r1",
+    "slab_layers": 4,
+    "n_lateral": 8,
+    "electrolyte": "Na_ci",
+    "delta_N": -2,
+    "n_cation": 2,
+    "n_anion": 0,
+    "n_water": 648,
+    "n_Ag": 256,
+    "n_atoms": 2202,
+    "ion_start": "surface",
+    "replica": 1,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 554.2297448292634,
+    "sigma_nominal_uC_cm2": -5.781633515514646,
+    "cell": [
+      [
+        23.542084547237174,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        23.542084547237174,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        63.742537859981915
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 43.742537859981915,
+    "purpose": "counter-ion-only cathodic side, cation comparison",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "LC_n8_Na_dN-2_far_r2",
+    "slab_layers": 4,
+    "n_lateral": 8,
+    "electrolyte": "Na_ci",
+    "delta_N": -2,
+    "n_cation": 2,
+    "n_anion": 0,
+    "n_water": 648,
+    "n_Ag": 256,
+    "n_atoms": 2202,
+    "ion_start": "far",
+    "replica": 2,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 554.2297448292634,
+    "sigma_nominal_uC_cm2": -5.781633515514646,
+    "cell": [
+      [
+        23.542084547237174,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        23.542084547237174,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        63.742537859981915
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 43.742537859981915,
+    "purpose": "counter-ion-only cathodic side, cation comparison",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "LC_n8_Cs_dN-1_surface_r1",
+    "slab_layers": 4,
+    "n_lateral": 8,
+    "electrolyte": "Cs_ci",
+    "delta_N": -1,
+    "n_cation": 1,
+    "n_anion": 0,
+    "n_water": 648,
+    "n_Ag": 256,
+    "n_atoms": 2201,
+    "ion_start": "surface",
+    "replica": 1,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 554.2297448292634,
+    "sigma_nominal_uC_cm2": -2.890816757757323,
+    "cell": [
+      [
+        23.542084547237174,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        23.542084547237174,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        63.742537859981915
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 43.742537859981915,
+    "purpose": "counter-ion-only cathodic side, cation comparison",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "LC_n8_Cs_dN-1_far_r2",
+    "slab_layers": 4,
+    "n_lateral": 8,
+    "electrolyte": "Cs_ci",
+    "delta_N": -1,
+    "n_cation": 1,
+    "n_anion": 0,
+    "n_water": 648,
+    "n_Ag": 256,
+    "n_atoms": 2201,
+    "ion_start": "far",
+    "replica": 2,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 554.2297448292634,
+    "sigma_nominal_uC_cm2": -2.890816757757323,
+    "cell": [
+      [
+        23.542084547237174,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        23.542084547237174,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        63.742537859981915
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 43.742537859981915,
+    "purpose": "counter-ion-only cathodic side, cation comparison",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "LC_n8_Cs_dN-2_surface_r1",
+    "slab_layers": 4,
+    "n_lateral": 8,
+    "electrolyte": "Cs_ci",
+    "delta_N": -2,
+    "n_cation": 2,
+    "n_anion": 0,
+    "n_water": 648,
+    "n_Ag": 256,
+    "n_atoms": 2202,
+    "ion_start": "surface",
+    "replica": 1,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 554.2297448292634,
+    "sigma_nominal_uC_cm2": -5.781633515514646,
+    "cell": [
+      [
+        23.542084547237174,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        23.542084547237174,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        63.742537859981915
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 43.742537859981915,
+    "purpose": "counter-ion-only cathodic side, cation comparison",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "LC_n8_Cs_dN-2_far_r2",
+    "slab_layers": 4,
+    "n_lateral": 8,
+    "electrolyte": "Cs_ci",
+    "delta_N": -2,
+    "n_cation": 2,
+    "n_anion": 0,
+    "n_water": 648,
+    "n_Ag": 256,
+    "n_atoms": 2202,
+    "ion_start": "far",
+    "replica": 2,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 554.2297448292634,
+    "sigma_nominal_uC_cm2": -5.781633515514646,
+    "cell": [
+      [
+        23.542084547237174,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        23.542084547237174,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        63.742537859981915
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 43.742537859981915,
+    "purpose": "counter-ion-only cathodic side, cation comparison",
+    "packer": "python_fallback"
+  }
+]

@@ -1,0 +1,2358 @@
+[
+  {
+    "state_id": "SL_h40_n16_H2O_dN0_random_r1",
+    "slab_layers": 4,
+    "n_lateral": 16,
+    "electrolyte": "H2O",
+    "delta_N": 0,
+    "n_cation": 0,
+    "n_anion": 0,
+    "n_water": 2964,
+    "n_Ag": 1024,
+    "n_atoms": 9916,
+    "ion_start": "random",
+    "replica": 1,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 2216.9189793170535,
+    "sigma_nominal_uC_cm2": 0.0,
+    "cell": [
+      [
+        47.08416909447435,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        47.08416909447435,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        68.74253785998192
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 48.742537859981915,
+    "purpose": "SL pure-water PZC",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "SL_h40_n16_H2O_dN0_random_r2",
+    "slab_layers": 4,
+    "n_lateral": 16,
+    "electrolyte": "H2O",
+    "delta_N": 0,
+    "n_cation": 0,
+    "n_anion": 0,
+    "n_water": 2964,
+    "n_Ag": 1024,
+    "n_atoms": 9916,
+    "ion_start": "random",
+    "replica": 2,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 2216.9189793170535,
+    "sigma_nominal_uC_cm2": 0.0,
+    "cell": [
+      [
+        47.08416909447435,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        47.08416909447435,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        68.74253785998192
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 48.742537859981915,
+    "purpose": "SL pure-water PZC",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "SL_h40_n16_F_dN+1_surface_r1",
+    "slab_layers": 4,
+    "n_lateral": 16,
+    "electrolyte": "F_ci",
+    "delta_N": 1,
+    "n_cation": 0,
+    "n_anion": 1,
+    "n_water": 2964,
+    "n_Ag": 1024,
+    "n_atoms": 9917,
+    "ion_start": "surface",
+    "replica": 1,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 2216.9189793170535,
+    "sigma_nominal_uC_cm2": 0.7227041894393308,
+    "cell": [
+      [
+        47.08416909447435,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        47.08416909447435,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        68.74253785998192
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 48.742537859981915,
+    "purpose": "SL anodic counter-ion state",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "SL_h40_n16_F_dN+1_far_r2",
+    "slab_layers": 4,
+    "n_lateral": 16,
+    "electrolyte": "F_ci",
+    "delta_N": 1,
+    "n_cation": 0,
+    "n_anion": 1,
+    "n_water": 2964,
+    "n_Ag": 1024,
+    "n_atoms": 9917,
+    "ion_start": "far",
+    "replica": 2,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 2216.9189793170535,
+    "sigma_nominal_uC_cm2": 0.7227041894393308,
+    "cell": [
+      [
+        47.08416909447435,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        47.08416909447435,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        68.74253785998192
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 48.742537859981915,
+    "purpose": "SL anodic counter-ion state",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "SL_h40_n16_Na_dN-1_surface_r1",
+    "slab_layers": 4,
+    "n_lateral": 16,
+    "electrolyte": "Na_ci",
+    "delta_N": -1,
+    "n_cation": 1,
+    "n_anion": 0,
+    "n_water": 2964,
+    "n_Ag": 1024,
+    "n_atoms": 9917,
+    "ion_start": "surface",
+    "replica": 1,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 2216.9189793170535,
+    "sigma_nominal_uC_cm2": -0.7227041894393308,
+    "cell": [
+      [
+        47.08416909447435,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        47.08416909447435,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        68.74253785998192
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 48.742537859981915,
+    "purpose": "SL cathodic counter-ion state",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "SL_h40_n16_Na_dN-1_far_r2",
+    "slab_layers": 4,
+    "n_lateral": 16,
+    "electrolyte": "Na_ci",
+    "delta_N": -1,
+    "n_cation": 1,
+    "n_anion": 0,
+    "n_water": 2964,
+    "n_Ag": 1024,
+    "n_atoms": 9917,
+    "ion_start": "far",
+    "replica": 2,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 2216.9189793170535,
+    "sigma_nominal_uC_cm2": -0.7227041894393308,
+    "cell": [
+      [
+        47.08416909447435,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        47.08416909447435,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        68.74253785998192
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 48.742537859981915,
+    "purpose": "SL cathodic counter-ion state",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "SL_h40_n16_Cs_dN-1_surface_r1",
+    "slab_layers": 4,
+    "n_lateral": 16,
+    "electrolyte": "Cs_ci",
+    "delta_N": -1,
+    "n_cation": 1,
+    "n_anion": 0,
+    "n_water": 2964,
+    "n_Ag": 1024,
+    "n_atoms": 9917,
+    "ion_start": "surface",
+    "replica": 1,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 2216.9189793170535,
+    "sigma_nominal_uC_cm2": -0.7227041894393308,
+    "cell": [
+      [
+        47.08416909447435,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        47.08416909447435,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        68.74253785998192
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 48.742537859981915,
+    "purpose": "SL cathodic counter-ion state",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "SL_h40_n16_Cs_dN-1_far_r2",
+    "slab_layers": 4,
+    "n_lateral": 16,
+    "electrolyte": "Cs_ci",
+    "delta_N": -1,
+    "n_cation": 1,
+    "n_anion": 0,
+    "n_water": 2964,
+    "n_Ag": 1024,
+    "n_atoms": 9917,
+    "ion_start": "far",
+    "replica": 2,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 2216.9189793170535,
+    "sigma_nominal_uC_cm2": -0.7227041894393308,
+    "cell": [
+      [
+        47.08416909447435,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        47.08416909447435,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        68.74253785998192
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 48.742537859981915,
+    "purpose": "SL cathodic counter-ion state",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "SL_h40_n16_F_dN+2_surface_r1",
+    "slab_layers": 4,
+    "n_lateral": 16,
+    "electrolyte": "F_ci",
+    "delta_N": 2,
+    "n_cation": 0,
+    "n_anion": 2,
+    "n_water": 2964,
+    "n_Ag": 1024,
+    "n_atoms": 9918,
+    "ion_start": "surface",
+    "replica": 1,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 2216.9189793170535,
+    "sigma_nominal_uC_cm2": 1.4454083788786616,
+    "cell": [
+      [
+        47.08416909447435,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        47.08416909447435,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        68.74253785998192
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 48.742537859981915,
+    "purpose": "SL anodic counter-ion state",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "SL_h40_n16_F_dN+2_far_r2",
+    "slab_layers": 4,
+    "n_lateral": 16,
+    "electrolyte": "F_ci",
+    "delta_N": 2,
+    "n_cation": 0,
+    "n_anion": 2,
+    "n_water": 2964,
+    "n_Ag": 1024,
+    "n_atoms": 9918,
+    "ion_start": "far",
+    "replica": 2,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 2216.9189793170535,
+    "sigma_nominal_uC_cm2": 1.4454083788786616,
+    "cell": [
+      [
+        47.08416909447435,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        47.08416909447435,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        68.74253785998192
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 48.742537859981915,
+    "purpose": "SL anodic counter-ion state",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "SL_h40_n16_Na_dN-2_surface_r1",
+    "slab_layers": 4,
+    "n_lateral": 16,
+    "electrolyte": "Na_ci",
+    "delta_N": -2,
+    "n_cation": 2,
+    "n_anion": 0,
+    "n_water": 2964,
+    "n_Ag": 1024,
+    "n_atoms": 9918,
+    "ion_start": "surface",
+    "replica": 1,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 2216.9189793170535,
+    "sigma_nominal_uC_cm2": -1.4454083788786616,
+    "cell": [
+      [
+        47.08416909447435,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        47.08416909447435,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        68.74253785998192
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 48.742537859981915,
+    "purpose": "SL cathodic counter-ion state",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "SL_h40_n16_Na_dN-2_far_r2",
+    "slab_layers": 4,
+    "n_lateral": 16,
+    "electrolyte": "Na_ci",
+    "delta_N": -2,
+    "n_cation": 2,
+    "n_anion": 0,
+    "n_water": 2964,
+    "n_Ag": 1024,
+    "n_atoms": 9918,
+    "ion_start": "far",
+    "replica": 2,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 2216.9189793170535,
+    "sigma_nominal_uC_cm2": -1.4454083788786616,
+    "cell": [
+      [
+        47.08416909447435,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        47.08416909447435,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        68.74253785998192
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 48.742537859981915,
+    "purpose": "SL cathodic counter-ion state",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "SL_h40_n16_Cs_dN-2_surface_r1",
+    "slab_layers": 4,
+    "n_lateral": 16,
+    "electrolyte": "Cs_ci",
+    "delta_N": -2,
+    "n_cation": 2,
+    "n_anion": 0,
+    "n_water": 2964,
+    "n_Ag": 1024,
+    "n_atoms": 9918,
+    "ion_start": "surface",
+    "replica": 1,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 2216.9189793170535,
+    "sigma_nominal_uC_cm2": -1.4454083788786616,
+    "cell": [
+      [
+        47.08416909447435,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        47.08416909447435,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        68.74253785998192
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 48.742537859981915,
+    "purpose": "SL cathodic counter-ion state",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "SL_h40_n16_Cs_dN-2_far_r2",
+    "slab_layers": 4,
+    "n_lateral": 16,
+    "electrolyte": "Cs_ci",
+    "delta_N": -2,
+    "n_cation": 2,
+    "n_anion": 0,
+    "n_water": 2964,
+    "n_Ag": 1024,
+    "n_atoms": 9918,
+    "ion_start": "far",
+    "replica": 2,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 2216.9189793170535,
+    "sigma_nominal_uC_cm2": -1.4454083788786616,
+    "cell": [
+      [
+        47.08416909447435,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        47.08416909447435,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        68.74253785998192
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 48.742537859981915,
+    "purpose": "SL cathodic counter-ion state",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "SL_h40_n16_F_dN+3_surface_r1",
+    "slab_layers": 4,
+    "n_lateral": 16,
+    "electrolyte": "F_ci",
+    "delta_N": 3,
+    "n_cation": 0,
+    "n_anion": 3,
+    "n_water": 2964,
+    "n_Ag": 1024,
+    "n_atoms": 9919,
+    "ion_start": "surface",
+    "replica": 1,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 2216.9189793170535,
+    "sigma_nominal_uC_cm2": 2.1681125683179925,
+    "cell": [
+      [
+        47.08416909447435,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        47.08416909447435,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        68.74253785998192
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 48.742537859981915,
+    "purpose": "SL anodic counter-ion state",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "SL_h40_n16_F_dN+3_far_r2",
+    "slab_layers": 4,
+    "n_lateral": 16,
+    "electrolyte": "F_ci",
+    "delta_N": 3,
+    "n_cation": 0,
+    "n_anion": 3,
+    "n_water": 2964,
+    "n_Ag": 1024,
+    "n_atoms": 9919,
+    "ion_start": "far",
+    "replica": 2,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 2216.9189793170535,
+    "sigma_nominal_uC_cm2": 2.1681125683179925,
+    "cell": [
+      [
+        47.08416909447435,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        47.08416909447435,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        68.74253785998192
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 48.742537859981915,
+    "purpose": "SL anodic counter-ion state",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "SL_h40_n16_Na_dN-3_surface_r1",
+    "slab_layers": 4,
+    "n_lateral": 16,
+    "electrolyte": "Na_ci",
+    "delta_N": -3,
+    "n_cation": 3,
+    "n_anion": 0,
+    "n_water": 2964,
+    "n_Ag": 1024,
+    "n_atoms": 9919,
+    "ion_start": "surface",
+    "replica": 1,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 2216.9189793170535,
+    "sigma_nominal_uC_cm2": -2.1681125683179925,
+    "cell": [
+      [
+        47.08416909447435,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        47.08416909447435,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        68.74253785998192
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 48.742537859981915,
+    "purpose": "SL cathodic counter-ion state",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "SL_h40_n16_Na_dN-3_far_r2",
+    "slab_layers": 4,
+    "n_lateral": 16,
+    "electrolyte": "Na_ci",
+    "delta_N": -3,
+    "n_cation": 3,
+    "n_anion": 0,
+    "n_water": 2964,
+    "n_Ag": 1024,
+    "n_atoms": 9919,
+    "ion_start": "far",
+    "replica": 2,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 2216.9189793170535,
+    "sigma_nominal_uC_cm2": -2.1681125683179925,
+    "cell": [
+      [
+        47.08416909447435,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        47.08416909447435,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        68.74253785998192
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 48.742537859981915,
+    "purpose": "SL cathodic counter-ion state",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "SL_h40_n16_Cs_dN-3_surface_r1",
+    "slab_layers": 4,
+    "n_lateral": 16,
+    "electrolyte": "Cs_ci",
+    "delta_N": -3,
+    "n_cation": 3,
+    "n_anion": 0,
+    "n_water": 2964,
+    "n_Ag": 1024,
+    "n_atoms": 9919,
+    "ion_start": "surface",
+    "replica": 1,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 2216.9189793170535,
+    "sigma_nominal_uC_cm2": -2.1681125683179925,
+    "cell": [
+      [
+        47.08416909447435,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        47.08416909447435,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        68.74253785998192
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 48.742537859981915,
+    "purpose": "SL cathodic counter-ion state",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "SL_h40_n16_Cs_dN-3_far_r2",
+    "slab_layers": 4,
+    "n_lateral": 16,
+    "electrolyte": "Cs_ci",
+    "delta_N": -3,
+    "n_cation": 3,
+    "n_anion": 0,
+    "n_water": 2964,
+    "n_Ag": 1024,
+    "n_atoms": 9919,
+    "ion_start": "far",
+    "replica": 2,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 2216.9189793170535,
+    "sigma_nominal_uC_cm2": -2.1681125683179925,
+    "cell": [
+      [
+        47.08416909447435,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        47.08416909447435,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        68.74253785998192
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 48.742537859981915,
+    "purpose": "SL cathodic counter-ion state",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "SL_h40_n16_F_dN+4_surface_r1",
+    "slab_layers": 4,
+    "n_lateral": 16,
+    "electrolyte": "F_ci",
+    "delta_N": 4,
+    "n_cation": 0,
+    "n_anion": 4,
+    "n_water": 2964,
+    "n_Ag": 1024,
+    "n_atoms": 9920,
+    "ion_start": "surface",
+    "replica": 1,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 2216.9189793170535,
+    "sigma_nominal_uC_cm2": 2.890816757757323,
+    "cell": [
+      [
+        47.08416909447435,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        47.08416909447435,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        68.74253785998192
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 48.742537859981915,
+    "purpose": "SL anodic counter-ion state",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "SL_h40_n16_F_dN+4_far_r2",
+    "slab_layers": 4,
+    "n_lateral": 16,
+    "electrolyte": "F_ci",
+    "delta_N": 4,
+    "n_cation": 0,
+    "n_anion": 4,
+    "n_water": 2964,
+    "n_Ag": 1024,
+    "n_atoms": 9920,
+    "ion_start": "far",
+    "replica": 2,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 2216.9189793170535,
+    "sigma_nominal_uC_cm2": 2.890816757757323,
+    "cell": [
+      [
+        47.08416909447435,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        47.08416909447435,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        68.74253785998192
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 48.742537859981915,
+    "purpose": "SL anodic counter-ion state",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "SL_h40_n16_Na_dN-4_surface_r1",
+    "slab_layers": 4,
+    "n_lateral": 16,
+    "electrolyte": "Na_ci",
+    "delta_N": -4,
+    "n_cation": 4,
+    "n_anion": 0,
+    "n_water": 2964,
+    "n_Ag": 1024,
+    "n_atoms": 9920,
+    "ion_start": "surface",
+    "replica": 1,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 2216.9189793170535,
+    "sigma_nominal_uC_cm2": -2.890816757757323,
+    "cell": [
+      [
+        47.08416909447435,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        47.08416909447435,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        68.74253785998192
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 48.742537859981915,
+    "purpose": "SL cathodic counter-ion state",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "SL_h40_n16_Na_dN-4_far_r2",
+    "slab_layers": 4,
+    "n_lateral": 16,
+    "electrolyte": "Na_ci",
+    "delta_N": -4,
+    "n_cation": 4,
+    "n_anion": 0,
+    "n_water": 2964,
+    "n_Ag": 1024,
+    "n_atoms": 9920,
+    "ion_start": "far",
+    "replica": 2,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 2216.9189793170535,
+    "sigma_nominal_uC_cm2": -2.890816757757323,
+    "cell": [
+      [
+        47.08416909447435,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        47.08416909447435,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        68.74253785998192
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 48.742537859981915,
+    "purpose": "SL cathodic counter-ion state",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "SL_h40_n16_Cs_dN-4_surface_r1",
+    "slab_layers": 4,
+    "n_lateral": 16,
+    "electrolyte": "Cs_ci",
+    "delta_N": -4,
+    "n_cation": 4,
+    "n_anion": 0,
+    "n_water": 2964,
+    "n_Ag": 1024,
+    "n_atoms": 9920,
+    "ion_start": "surface",
+    "replica": 1,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 2216.9189793170535,
+    "sigma_nominal_uC_cm2": -2.890816757757323,
+    "cell": [
+      [
+        47.08416909447435,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        47.08416909447435,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        68.74253785998192
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 48.742537859981915,
+    "purpose": "SL cathodic counter-ion state",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "SL_h40_n16_Cs_dN-4_far_r2",
+    "slab_layers": 4,
+    "n_lateral": 16,
+    "electrolyte": "Cs_ci",
+    "delta_N": -4,
+    "n_cation": 4,
+    "n_anion": 0,
+    "n_water": 2964,
+    "n_Ag": 1024,
+    "n_atoms": 9920,
+    "ion_start": "far",
+    "replica": 2,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 2216.9189793170535,
+    "sigma_nominal_uC_cm2": -2.890816757757323,
+    "cell": [
+      [
+        47.08416909447435,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        47.08416909447435,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        68.74253785998192
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 48.742537859981915,
+    "purpose": "SL cathodic counter-ion state",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "SL_h40_n16_F_dN+6_surface_r1",
+    "slab_layers": 4,
+    "n_lateral": 16,
+    "electrolyte": "F_ci",
+    "delta_N": 6,
+    "n_cation": 0,
+    "n_anion": 6,
+    "n_water": 2964,
+    "n_Ag": 1024,
+    "n_atoms": 9922,
+    "ion_start": "surface",
+    "replica": 1,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 2216.9189793170535,
+    "sigma_nominal_uC_cm2": 4.336225136635985,
+    "cell": [
+      [
+        47.08416909447435,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        47.08416909447435,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        68.74253785998192
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 48.742537859981915,
+    "purpose": "SL anodic counter-ion state",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "SL_h40_n16_F_dN+6_far_r2",
+    "slab_layers": 4,
+    "n_lateral": 16,
+    "electrolyte": "F_ci",
+    "delta_N": 6,
+    "n_cation": 0,
+    "n_anion": 6,
+    "n_water": 2964,
+    "n_Ag": 1024,
+    "n_atoms": 9922,
+    "ion_start": "far",
+    "replica": 2,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 2216.9189793170535,
+    "sigma_nominal_uC_cm2": 4.336225136635985,
+    "cell": [
+      [
+        47.08416909447435,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        47.08416909447435,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        68.74253785998192
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 48.742537859981915,
+    "purpose": "SL anodic counter-ion state",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "SL_h40_n16_Na_dN-6_surface_r1",
+    "slab_layers": 4,
+    "n_lateral": 16,
+    "electrolyte": "Na_ci",
+    "delta_N": -6,
+    "n_cation": 6,
+    "n_anion": 0,
+    "n_water": 2964,
+    "n_Ag": 1024,
+    "n_atoms": 9922,
+    "ion_start": "surface",
+    "replica": 1,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 2216.9189793170535,
+    "sigma_nominal_uC_cm2": -4.336225136635985,
+    "cell": [
+      [
+        47.08416909447435,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        47.08416909447435,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        68.74253785998192
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 48.742537859981915,
+    "purpose": "SL cathodic counter-ion state",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "SL_h40_n16_Na_dN-6_far_r2",
+    "slab_layers": 4,
+    "n_lateral": 16,
+    "electrolyte": "Na_ci",
+    "delta_N": -6,
+    "n_cation": 6,
+    "n_anion": 0,
+    "n_water": 2964,
+    "n_Ag": 1024,
+    "n_atoms": 9922,
+    "ion_start": "far",
+    "replica": 2,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 2216.9189793170535,
+    "sigma_nominal_uC_cm2": -4.336225136635985,
+    "cell": [
+      [
+        47.08416909447435,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        47.08416909447435,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        68.74253785998192
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 48.742537859981915,
+    "purpose": "SL cathodic counter-ion state",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "SL_h40_n16_Cs_dN-6_surface_r1",
+    "slab_layers": 4,
+    "n_lateral": 16,
+    "electrolyte": "Cs_ci",
+    "delta_N": -6,
+    "n_cation": 6,
+    "n_anion": 0,
+    "n_water": 2964,
+    "n_Ag": 1024,
+    "n_atoms": 9922,
+    "ion_start": "surface",
+    "replica": 1,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 2216.9189793170535,
+    "sigma_nominal_uC_cm2": -4.336225136635985,
+    "cell": [
+      [
+        47.08416909447435,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        47.08416909447435,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        68.74253785998192
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 48.742537859981915,
+    "purpose": "SL cathodic counter-ion state",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "SL_h40_n16_Cs_dN-6_far_r2",
+    "slab_layers": 4,
+    "n_lateral": 16,
+    "electrolyte": "Cs_ci",
+    "delta_N": -6,
+    "n_cation": 6,
+    "n_anion": 0,
+    "n_water": 2964,
+    "n_Ag": 1024,
+    "n_atoms": 9922,
+    "ion_start": "far",
+    "replica": 2,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 2216.9189793170535,
+    "sigma_nominal_uC_cm2": -4.336225136635985,
+    "cell": [
+      [
+        47.08416909447435,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        47.08416909447435,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        68.74253785998192
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 48.742537859981915,
+    "purpose": "SL cathodic counter-ion state",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "SL_h40_n16_F_dN+8_surface_r1",
+    "slab_layers": 4,
+    "n_lateral": 16,
+    "electrolyte": "F_ci",
+    "delta_N": 8,
+    "n_cation": 0,
+    "n_anion": 8,
+    "n_water": 2964,
+    "n_Ag": 1024,
+    "n_atoms": 9924,
+    "ion_start": "surface",
+    "replica": 1,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 2216.9189793170535,
+    "sigma_nominal_uC_cm2": 5.781633515514646,
+    "cell": [
+      [
+        47.08416909447435,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        47.08416909447435,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        68.74253785998192
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 48.742537859981915,
+    "purpose": "SL anodic counter-ion state",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "SL_h40_n16_F_dN+8_far_r2",
+    "slab_layers": 4,
+    "n_lateral": 16,
+    "electrolyte": "F_ci",
+    "delta_N": 8,
+    "n_cation": 0,
+    "n_anion": 8,
+    "n_water": 2964,
+    "n_Ag": 1024,
+    "n_atoms": 9924,
+    "ion_start": "far",
+    "replica": 2,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 2216.9189793170535,
+    "sigma_nominal_uC_cm2": 5.781633515514646,
+    "cell": [
+      [
+        47.08416909447435,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        47.08416909447435,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        68.74253785998192
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 48.742537859981915,
+    "purpose": "SL anodic counter-ion state",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "SL_h40_n16_Na_dN-8_surface_r1",
+    "slab_layers": 4,
+    "n_lateral": 16,
+    "electrolyte": "Na_ci",
+    "delta_N": -8,
+    "n_cation": 8,
+    "n_anion": 0,
+    "n_water": 2964,
+    "n_Ag": 1024,
+    "n_atoms": 9924,
+    "ion_start": "surface",
+    "replica": 1,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 2216.9189793170535,
+    "sigma_nominal_uC_cm2": -5.781633515514646,
+    "cell": [
+      [
+        47.08416909447435,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        47.08416909447435,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        68.74253785998192
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 48.742537859981915,
+    "purpose": "SL cathodic counter-ion state",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "SL_h40_n16_Na_dN-8_far_r2",
+    "slab_layers": 4,
+    "n_lateral": 16,
+    "electrolyte": "Na_ci",
+    "delta_N": -8,
+    "n_cation": 8,
+    "n_anion": 0,
+    "n_water": 2964,
+    "n_Ag": 1024,
+    "n_atoms": 9924,
+    "ion_start": "far",
+    "replica": 2,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 2216.9189793170535,
+    "sigma_nominal_uC_cm2": -5.781633515514646,
+    "cell": [
+      [
+        47.08416909447435,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        47.08416909447435,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        68.74253785998192
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 48.742537859981915,
+    "purpose": "SL cathodic counter-ion state",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "SL_h40_n16_Cs_dN-8_surface_r1",
+    "slab_layers": 4,
+    "n_lateral": 16,
+    "electrolyte": "Cs_ci",
+    "delta_N": -8,
+    "n_cation": 8,
+    "n_anion": 0,
+    "n_water": 2964,
+    "n_Ag": 1024,
+    "n_atoms": 9924,
+    "ion_start": "surface",
+    "replica": 1,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 2216.9189793170535,
+    "sigma_nominal_uC_cm2": -5.781633515514646,
+    "cell": [
+      [
+        47.08416909447435,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        47.08416909447435,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        68.74253785998192
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 48.742537859981915,
+    "purpose": "SL cathodic counter-ion state",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "SL_h40_n16_Cs_dN-8_far_r2",
+    "slab_layers": 4,
+    "n_lateral": 16,
+    "electrolyte": "Cs_ci",
+    "delta_N": -8,
+    "n_cation": 8,
+    "n_anion": 0,
+    "n_water": 2964,
+    "n_Ag": 1024,
+    "n_atoms": 9924,
+    "ion_start": "far",
+    "replica": 2,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 2216.9189793170535,
+    "sigma_nominal_uC_cm2": -5.781633515514646,
+    "cell": [
+      [
+        47.08416909447435,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        47.08416909447435,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        68.74253785998192
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 48.742537859981915,
+    "purpose": "SL cathodic counter-ion state",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "SL_h40_n16_F_dN+12_surface_r1",
+    "slab_layers": 4,
+    "n_lateral": 16,
+    "electrolyte": "F_ci",
+    "delta_N": 12,
+    "n_cation": 0,
+    "n_anion": 12,
+    "n_water": 2964,
+    "n_Ag": 1024,
+    "n_atoms": 9928,
+    "ion_start": "surface",
+    "replica": 1,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 2216.9189793170535,
+    "sigma_nominal_uC_cm2": 8.67245027327197,
+    "cell": [
+      [
+        47.08416909447435,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        47.08416909447435,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        68.74253785998192
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 48.742537859981915,
+    "purpose": "SL anodic counter-ion state",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "SL_h40_n16_F_dN+12_far_r2",
+    "slab_layers": 4,
+    "n_lateral": 16,
+    "electrolyte": "F_ci",
+    "delta_N": 12,
+    "n_cation": 0,
+    "n_anion": 12,
+    "n_water": 2964,
+    "n_Ag": 1024,
+    "n_atoms": 9928,
+    "ion_start": "far",
+    "replica": 2,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 2216.9189793170535,
+    "sigma_nominal_uC_cm2": 8.67245027327197,
+    "cell": [
+      [
+        47.08416909447435,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        47.08416909447435,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        68.74253785998192
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 48.742537859981915,
+    "purpose": "SL anodic counter-ion state",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "SL_h40_n16_Na_dN-12_surface_r1",
+    "slab_layers": 4,
+    "n_lateral": 16,
+    "electrolyte": "Na_ci",
+    "delta_N": -12,
+    "n_cation": 12,
+    "n_anion": 0,
+    "n_water": 2964,
+    "n_Ag": 1024,
+    "n_atoms": 9928,
+    "ion_start": "surface",
+    "replica": 1,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 2216.9189793170535,
+    "sigma_nominal_uC_cm2": -8.67245027327197,
+    "cell": [
+      [
+        47.08416909447435,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        47.08416909447435,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        68.74253785998192
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 48.742537859981915,
+    "purpose": "SL cathodic counter-ion state",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "SL_h40_n16_Na_dN-12_far_r2",
+    "slab_layers": 4,
+    "n_lateral": 16,
+    "electrolyte": "Na_ci",
+    "delta_N": -12,
+    "n_cation": 12,
+    "n_anion": 0,
+    "n_water": 2964,
+    "n_Ag": 1024,
+    "n_atoms": 9928,
+    "ion_start": "far",
+    "replica": 2,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 2216.9189793170535,
+    "sigma_nominal_uC_cm2": -8.67245027327197,
+    "cell": [
+      [
+        47.08416909447435,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        47.08416909447435,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        68.74253785998192
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 48.742537859981915,
+    "purpose": "SL cathodic counter-ion state",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "SL_h40_n16_Cs_dN-12_surface_r1",
+    "slab_layers": 4,
+    "n_lateral": 16,
+    "electrolyte": "Cs_ci",
+    "delta_N": -12,
+    "n_cation": 12,
+    "n_anion": 0,
+    "n_water": 2964,
+    "n_Ag": 1024,
+    "n_atoms": 9928,
+    "ion_start": "surface",
+    "replica": 1,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 2216.9189793170535,
+    "sigma_nominal_uC_cm2": -8.67245027327197,
+    "cell": [
+      [
+        47.08416909447435,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        47.08416909447435,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        68.74253785998192
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 48.742537859981915,
+    "purpose": "SL cathodic counter-ion state",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "SL_h40_n16_Cs_dN-12_far_r2",
+    "slab_layers": 4,
+    "n_lateral": 16,
+    "electrolyte": "Cs_ci",
+    "delta_N": -12,
+    "n_cation": 12,
+    "n_anion": 0,
+    "n_water": 2964,
+    "n_Ag": 1024,
+    "n_atoms": 9928,
+    "ion_start": "far",
+    "replica": 2,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 2216.9189793170535,
+    "sigma_nominal_uC_cm2": -8.67245027327197,
+    "cell": [
+      [
+        47.08416909447435,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        47.08416909447435,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        68.74253785998192
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 48.742537859981915,
+    "purpose": "SL cathodic counter-ion state",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "SL_h40_n16_F_dN+16_surface_r1",
+    "slab_layers": 4,
+    "n_lateral": 16,
+    "electrolyte": "F_ci",
+    "delta_N": 16,
+    "n_cation": 0,
+    "n_anion": 16,
+    "n_water": 2964,
+    "n_Ag": 1024,
+    "n_atoms": 9932,
+    "ion_start": "surface",
+    "replica": 1,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 2216.9189793170535,
+    "sigma_nominal_uC_cm2": 11.563267031029293,
+    "cell": [
+      [
+        47.08416909447435,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        47.08416909447435,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        68.74253785998192
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 48.742537859981915,
+    "purpose": "SL anodic counter-ion state",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "SL_h40_n16_F_dN+16_far_r2",
+    "slab_layers": 4,
+    "n_lateral": 16,
+    "electrolyte": "F_ci",
+    "delta_N": 16,
+    "n_cation": 0,
+    "n_anion": 16,
+    "n_water": 2964,
+    "n_Ag": 1024,
+    "n_atoms": 9932,
+    "ion_start": "far",
+    "replica": 2,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 2216.9189793170535,
+    "sigma_nominal_uC_cm2": 11.563267031029293,
+    "cell": [
+      [
+        47.08416909447435,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        47.08416909447435,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        68.74253785998192
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 48.742537859981915,
+    "purpose": "SL anodic counter-ion state",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "SL_h40_n16_Na_dN-16_surface_r1",
+    "slab_layers": 4,
+    "n_lateral": 16,
+    "electrolyte": "Na_ci",
+    "delta_N": -16,
+    "n_cation": 16,
+    "n_anion": 0,
+    "n_water": 2964,
+    "n_Ag": 1024,
+    "n_atoms": 9932,
+    "ion_start": "surface",
+    "replica": 1,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 2216.9189793170535,
+    "sigma_nominal_uC_cm2": -11.563267031029293,
+    "cell": [
+      [
+        47.08416909447435,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        47.08416909447435,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        68.74253785998192
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 48.742537859981915,
+    "purpose": "SL cathodic counter-ion state",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "SL_h40_n16_Na_dN-16_far_r2",
+    "slab_layers": 4,
+    "n_lateral": 16,
+    "electrolyte": "Na_ci",
+    "delta_N": -16,
+    "n_cation": 16,
+    "n_anion": 0,
+    "n_water": 2964,
+    "n_Ag": 1024,
+    "n_atoms": 9932,
+    "ion_start": "far",
+    "replica": 2,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 2216.9189793170535,
+    "sigma_nominal_uC_cm2": -11.563267031029293,
+    "cell": [
+      [
+        47.08416909447435,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        47.08416909447435,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        68.74253785998192
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 48.742537859981915,
+    "purpose": "SL cathodic counter-ion state",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "SL_h40_n16_Cs_dN-16_surface_r1",
+    "slab_layers": 4,
+    "n_lateral": 16,
+    "electrolyte": "Cs_ci",
+    "delta_N": -16,
+    "n_cation": 16,
+    "n_anion": 0,
+    "n_water": 2964,
+    "n_Ag": 1024,
+    "n_atoms": 9932,
+    "ion_start": "surface",
+    "replica": 1,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 2216.9189793170535,
+    "sigma_nominal_uC_cm2": -11.563267031029293,
+    "cell": [
+      [
+        47.08416909447435,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        47.08416909447435,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        68.74253785998192
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 48.742537859981915,
+    "purpose": "SL cathodic counter-ion state",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "SL_h40_n16_Cs_dN-16_far_r2",
+    "slab_layers": 4,
+    "n_lateral": 16,
+    "electrolyte": "Cs_ci",
+    "delta_N": -16,
+    "n_cation": 16,
+    "n_anion": 0,
+    "n_water": 2964,
+    "n_Ag": 1024,
+    "n_atoms": 9932,
+    "ion_start": "far",
+    "replica": 2,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 2216.9189793170535,
+    "sigma_nominal_uC_cm2": -11.563267031029293,
+    "cell": [
+      [
+        47.08416909447435,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        47.08416909447435,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        68.74253785998192
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 48.742537859981915,
+    "purpose": "SL cathodic counter-ion state",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "SL_h40_n16_F_dN+20_surface_r1",
+    "slab_layers": 4,
+    "n_lateral": 16,
+    "electrolyte": "F_ci",
+    "delta_N": 20,
+    "n_cation": 0,
+    "n_anion": 20,
+    "n_water": 2964,
+    "n_Ag": 1024,
+    "n_atoms": 9936,
+    "ion_start": "surface",
+    "replica": 1,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 2216.9189793170535,
+    "sigma_nominal_uC_cm2": 14.454083788786615,
+    "cell": [
+      [
+        47.08416909447435,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        47.08416909447435,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        68.74253785998192
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 48.742537859981915,
+    "purpose": "SL anodic counter-ion state",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "SL_h40_n16_F_dN+20_far_r2",
+    "slab_layers": 4,
+    "n_lateral": 16,
+    "electrolyte": "F_ci",
+    "delta_N": 20,
+    "n_cation": 0,
+    "n_anion": 20,
+    "n_water": 2964,
+    "n_Ag": 1024,
+    "n_atoms": 9936,
+    "ion_start": "far",
+    "replica": 2,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 2216.9189793170535,
+    "sigma_nominal_uC_cm2": 14.454083788786615,
+    "cell": [
+      [
+        47.08416909447435,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        47.08416909447435,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        68.74253785998192
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 48.742537859981915,
+    "purpose": "SL anodic counter-ion state",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "SL_h40_n16_Na_dN-20_surface_r1",
+    "slab_layers": 4,
+    "n_lateral": 16,
+    "electrolyte": "Na_ci",
+    "delta_N": -20,
+    "n_cation": 20,
+    "n_anion": 0,
+    "n_water": 2964,
+    "n_Ag": 1024,
+    "n_atoms": 9936,
+    "ion_start": "surface",
+    "replica": 1,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 2216.9189793170535,
+    "sigma_nominal_uC_cm2": -14.454083788786615,
+    "cell": [
+      [
+        47.08416909447435,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        47.08416909447435,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        68.74253785998192
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 48.742537859981915,
+    "purpose": "SL cathodic counter-ion state",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "SL_h40_n16_Na_dN-20_far_r2",
+    "slab_layers": 4,
+    "n_lateral": 16,
+    "electrolyte": "Na_ci",
+    "delta_N": -20,
+    "n_cation": 20,
+    "n_anion": 0,
+    "n_water": 2964,
+    "n_Ag": 1024,
+    "n_atoms": 9936,
+    "ion_start": "far",
+    "replica": 2,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 2216.9189793170535,
+    "sigma_nominal_uC_cm2": -14.454083788786615,
+    "cell": [
+      [
+        47.08416909447435,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        47.08416909447435,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        68.74253785998192
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 48.742537859981915,
+    "purpose": "SL cathodic counter-ion state",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "SL_h40_n16_Cs_dN-20_surface_r1",
+    "slab_layers": 4,
+    "n_lateral": 16,
+    "electrolyte": "Cs_ci",
+    "delta_N": -20,
+    "n_cation": 20,
+    "n_anion": 0,
+    "n_water": 2964,
+    "n_Ag": 1024,
+    "n_atoms": 9936,
+    "ion_start": "surface",
+    "replica": 1,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 2216.9189793170535,
+    "sigma_nominal_uC_cm2": -14.454083788786615,
+    "cell": [
+      [
+        47.08416909447435,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        47.08416909447435,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        68.74253785998192
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 48.742537859981915,
+    "purpose": "SL cathodic counter-ion state",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "SL_h40_n16_Cs_dN-20_far_r2",
+    "slab_layers": 4,
+    "n_lateral": 16,
+    "electrolyte": "Cs_ci",
+    "delta_N": -20,
+    "n_cation": 20,
+    "n_anion": 0,
+    "n_water": 2964,
+    "n_Ag": 1024,
+    "n_atoms": 9936,
+    "ion_start": "far",
+    "replica": 2,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 2216.9189793170535,
+    "sigma_nominal_uC_cm2": -14.454083788786615,
+    "cell": [
+      [
+        47.08416909447435,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        47.08416909447435,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        68.74253785998192
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 48.742537859981915,
+    "purpose": "SL cathodic counter-ion state",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "SL_h40_n16_F_dN+25_surface_r1",
+    "slab_layers": 4,
+    "n_lateral": 16,
+    "electrolyte": "F_ci",
+    "delta_N": 25,
+    "n_cation": 0,
+    "n_anion": 25,
+    "n_water": 2964,
+    "n_Ag": 1024,
+    "n_atoms": 9941,
+    "ion_start": "surface",
+    "replica": 1,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 2216.9189793170535,
+    "sigma_nominal_uC_cm2": 18.06760473598327,
+    "cell": [
+      [
+        47.08416909447435,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        47.08416909447435,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        68.74253785998192
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 48.742537859981915,
+    "purpose": "SL anodic counter-ion state",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "SL_h40_n16_F_dN+25_far_r2",
+    "slab_layers": 4,
+    "n_lateral": 16,
+    "electrolyte": "F_ci",
+    "delta_N": 25,
+    "n_cation": 0,
+    "n_anion": 25,
+    "n_water": 2964,
+    "n_Ag": 1024,
+    "n_atoms": 9941,
+    "ion_start": "far",
+    "replica": 2,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 2216.9189793170535,
+    "sigma_nominal_uC_cm2": 18.06760473598327,
+    "cell": [
+      [
+        47.08416909447435,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        47.08416909447435,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        68.74253785998192
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 48.742537859981915,
+    "purpose": "SL anodic counter-ion state",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "SL_h40_n16_Na_dN-25_surface_r1",
+    "slab_layers": 4,
+    "n_lateral": 16,
+    "electrolyte": "Na_ci",
+    "delta_N": -25,
+    "n_cation": 25,
+    "n_anion": 0,
+    "n_water": 2964,
+    "n_Ag": 1024,
+    "n_atoms": 9941,
+    "ion_start": "surface",
+    "replica": 1,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 2216.9189793170535,
+    "sigma_nominal_uC_cm2": -18.06760473598327,
+    "cell": [
+      [
+        47.08416909447435,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        47.08416909447435,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        68.74253785998192
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 48.742537859981915,
+    "purpose": "SL cathodic counter-ion state",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "SL_h40_n16_Na_dN-25_far_r2",
+    "slab_layers": 4,
+    "n_lateral": 16,
+    "electrolyte": "Na_ci",
+    "delta_N": -25,
+    "n_cation": 25,
+    "n_anion": 0,
+    "n_water": 2964,
+    "n_Ag": 1024,
+    "n_atoms": 9941,
+    "ion_start": "far",
+    "replica": 2,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 2216.9189793170535,
+    "sigma_nominal_uC_cm2": -18.06760473598327,
+    "cell": [
+      [
+        47.08416909447435,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        47.08416909447435,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        68.74253785998192
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 48.742537859981915,
+    "purpose": "SL cathodic counter-ion state",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "SL_h40_n16_Cs_dN-25_surface_r1",
+    "slab_layers": 4,
+    "n_lateral": 16,
+    "electrolyte": "Cs_ci",
+    "delta_N": -25,
+    "n_cation": 25,
+    "n_anion": 0,
+    "n_water": 2964,
+    "n_Ag": 1024,
+    "n_atoms": 9941,
+    "ion_start": "surface",
+    "replica": 1,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 2216.9189793170535,
+    "sigma_nominal_uC_cm2": -18.06760473598327,
+    "cell": [
+      [
+        47.08416909447435,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        47.08416909447435,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        68.74253785998192
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 48.742537859981915,
+    "purpose": "SL cathodic counter-ion state",
+    "packer": "python_fallback"
+  },
+  {
+    "state_id": "SL_h40_n16_Cs_dN-25_far_r2",
+    "slab_layers": 4,
+    "n_lateral": 16,
+    "electrolyte": "Cs_ci",
+    "delta_N": -25,
+    "n_cation": 25,
+    "n_anion": 0,
+    "n_water": 2964,
+    "n_Ag": 1024,
+    "n_atoms": 9941,
+    "ion_start": "far",
+    "replica": 2,
+    "lattice_constant_A": 4.161691906654609,
+    "area_A2": 2216.9189793170535,
+    "sigma_nominal_uC_cm2": -18.06760473598327,
+    "cell": [
+      [
+        47.08416909447435,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        47.08416909447435,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        68.74253785998192
+      ]
+    ],
+    "z_slab_top_A": 6.242537859981914,
+    "z_film_top_A": 48.742537859981915,
+    "purpose": "SL cathodic counter-ion state",
+    "packer": "python_fallback"
+  }
+]
